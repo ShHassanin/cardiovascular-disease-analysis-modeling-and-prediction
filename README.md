@@ -1,5 +1,6 @@
-# cardiovascular-disease-analysis-modeling-and-prediction Public
+# cardiovascular-disease-analysis-modeling-and-prediction
 cardiovascular-disease-analysis-modeling-and-prediction
+
 This project is analysis cardiovascular disease and predict according to the data will be filled(gender,age,weight,height,Systolic blood pressure mm Hg (upper number),Diastolic blood pressure mm Hg (lower number),Cholesterol level,Glucose level,is smoker, is Alcoholic ,is active) if patient may has probability to cardiac disease or not.
 
 ## Jupyter notebook
